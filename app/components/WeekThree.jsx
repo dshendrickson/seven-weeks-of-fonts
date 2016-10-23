@@ -8,17 +8,13 @@ export default class WeekThree extends Component {
       <div>
         <h3>Week Three</h3>
           <p id="unna-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
           <p id="lato-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
           <p id="unna-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
           <p id="lato-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
       </div>
     )
   }

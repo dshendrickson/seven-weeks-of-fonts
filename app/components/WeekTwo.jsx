@@ -5,19 +5,20 @@ export default class WeekTwo extends Component {
 
   render() {
     return (
+
       <div>
         <h3>Week Two</h3>
           <p id="unna-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
+          “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
           <p id="lato-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
+          “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
           <p id="unna-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
+          “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
           <p id="lato-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
+          “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
       </div>
     )

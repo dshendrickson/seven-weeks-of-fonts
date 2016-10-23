@@ -8,17 +8,13 @@ export default class WeekFour extends Component {
       <div>
         <h3>Week Four</h3>
           <p id="unna-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “I love deadlines. I like the whooshing sound they make as they fly by.” ― Douglas Adams          </p>
           <p id="lato-one">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “I love deadlines. I like the whooshing sound they make as they fly by.” ― Douglas Adams          </p>
           <p id="unna-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “I love deadlines. I like the whooshing sound they make as they fly by.” ― Douglas Adams          </p>
           <p id="lato-two">
-            When tempted to fight fire with fire, remember that the Fire Department usually uses water.
-          </p>
+            “I love deadlines. I like the whooshing sound they make as they fly by.” ― Douglas Adams          </p>
       </div>
     )
   }
