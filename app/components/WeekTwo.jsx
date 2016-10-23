@@ -8,16 +8,16 @@ export default class WeekTwo extends Component {
 
       <div>
         <h3>Week Two</h3>
-          <p id="unna-one">
+          <p id="vollkorn-one">
           “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
-          <p id="lato-one">
+          <p id="open-sans-one">
           “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
-          <p id="unna-two">
+          <p id="vollkorn-two">
           “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
-          <p id="lato-two">
+          <p id="open-sans-two">
           “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>
       </div>
