@@ -7,13 +7,13 @@ export default class WeekThree extends Component {
     return (
       <div>
         <h3>Week Three</h3>
-          <p id="unna-one">
+          <p id="arvo-one">
             “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
-          <p id="lato-one">
+          <p id="noto-sans-one">
             “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
-          <p id="unna-two">
+          <p id="arvo-two">
             “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
-          <p id="lato-two">
+          <p id="noto-sans-two">
             “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
       </div>
     )
