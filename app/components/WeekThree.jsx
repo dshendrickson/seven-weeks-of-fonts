@@ -8,13 +8,17 @@ export default class WeekThree extends Component {
       <div>
         <h2>Week Three</h2>
           <p id="arvo-one">
-            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde
+          </p>
           <p id="noto-sans-one">
-            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde
+          </p>
           <p id="arvo-two">
-            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde
+          </p>
           <p id="noto-sans-two">
-            “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
+            “Everything in moderation, including moderation.” ― Oscar Wilde
+          </p>
       </div>
     )
   }
