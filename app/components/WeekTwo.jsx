@@ -7,7 +7,7 @@ export default class WeekTwo extends Component {
     return (
 
       <div>
-        <h3>Week Two</h3>
+        <h2>Week Two</h2>
           <p id="vollkorn-one">
           “Well I could do that, but I won’t because I’m not an animal, and I don’t hate myself.” —Steve
           </p>

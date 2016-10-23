@@ -10,7 +10,7 @@ export default class Application extends Component {
   render() {
     return (
       <div>
-        <h2>Seven Weeks of Fonts</h2>
+        <h1>Seven Weeks of Fonts</h1>
         <WeekOne />
         <WeekTwo />
         <WeekThree />

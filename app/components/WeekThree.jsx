@@ -6,7 +6,7 @@ export default class WeekThree extends Component {
   render() {
     return (
       <div>
-        <h3>Week Three</h3>
+        <h2>Week Three</h2>
           <p id="arvo-one">
             “Everything in moderation, including moderation.” ― Oscar Wilde          </p>
           <p id="noto-sans-one">
